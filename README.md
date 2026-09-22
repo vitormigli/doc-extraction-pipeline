@@ -1,4 +1,12 @@
-# Document Extraction Pipeline
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:0A66C2&height=110&section=header&text=Document%20Extraction%20Pipeline&fontSize=32&fontColor=ffffff&fontAlignY=55" width="100%"/>
+
+[![CI](https://github.com/vitormigli/doc-extraction-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/vitormigli/doc-extraction-pipeline/actions/workflows/ci.yml)
+![Python](https://img.shields.io/badge/python-3.11+-3776AB?logo=python&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-vision-D97757?logo=anthropic&logoColor=white)
+
+</div>
 
 Structured JSON extraction from Brazilian documents (images/PDFs) using Claude vision, with Pydantic validation and business rules (CPF/CNPJ check digits, coherent dates and values).
 
