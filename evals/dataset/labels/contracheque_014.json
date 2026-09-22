@@ -1,0 +1,13 @@
+{
+  "nome_funcionario": "Otávio Vargas",
+  "cpf": "923.746.015-52",
+  "empresa": "Abreu Pacheco S.A.",
+  "cnpj_empresa": "20.469.351/0001-53",
+  "cargo": "Analista de Sistemas",
+  "mes_referencia": "10/2025",
+  "salario_bruto": 6372.45,
+  "inss": 624.08,
+  "irrf": 626.28,
+  "salario_liquido": 5122.09,
+  "data_pagamento": "23/05/2026"
+}

@@ -1,0 +1,13 @@
+{
+  "nome_funcionario": "Renan da Mata",
+  "cpf": "643.875.290-83",
+  "empresa": "Machado e Filhos",
+  "cnpj_empresa": "54.392.607/0001-93",
+  "cargo": "Analista de Sistemas",
+  "mes_referencia": "07/2026",
+  "salario_bruto": 11561.87,
+  "inss": 1017.21,
+  "irrf": 1203.11,
+  "salario_liquido": 9341.55,
+  "data_pagamento": "07/06/2026"
+}

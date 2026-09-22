@@ -1,0 +1,13 @@
+{
+  "nome_funcionario": "Noah Peixoto",
+  "cpf": "516.490.278-85",
+  "empresa": "Teixeira Ltda.",
+  "cnpj_empresa": "74.620.139/0001-74",
+  "cargo": "Assistente Administrativo",
+  "mes_referencia": "06/2026",
+  "salario_bruto": 6238.85,
+  "inss": 610.61,
+  "irrf": 80.83,
+  "salario_liquido": 5547.41,
+  "data_pagamento": "16/03/2026"
+}

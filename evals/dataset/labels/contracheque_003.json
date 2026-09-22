@@ -1,0 +1,13 @@
+{
+  "nome_funcionario": "Lucas Gabriel Cunha",
+  "cpf": "137.469.258-19",
+  "empresa": "da Luz",
+  "cnpj_empresa": "34.165.290/0001-45",
+  "cargo": "Analista de Sistemas",
+  "mes_referencia": "12/2025",
+  "salario_bruto": 5454.4,
+  "inss": 452.92,
+  "irrf": 196.57,
+  "salario_liquido": 4804.91,
+  "data_pagamento": "12/08/2026"
+}

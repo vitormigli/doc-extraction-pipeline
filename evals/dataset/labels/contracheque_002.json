@@ -1,0 +1,13 @@
+{
+  "nome_funcionario": "Maria Laura Santos",
+  "cpf": "135.976.802-59",
+  "empresa": "Vasconcelos",
+  "cnpj_empresa": "82.943.056/0001-44",
+  "cargo": "Engenheiro de Software",
+  "mes_referencia": "05/2026",
+  "salario_bruto": 8491.81,
+  "inss": 779.88,
+  "irrf": 127.8,
+  "salario_liquido": 7584.13,
+  "data_pagamento": "10/05/2026"
+}

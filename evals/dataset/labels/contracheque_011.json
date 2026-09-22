@@ -1,0 +1,13 @@
+{
+  "nome_funcionario": "Danilo Barros",
+  "cpf": "873.049.625-00",
+  "empresa": "Fonseca",
+  "cnpj_empresa": "47.035.892/0001-20",
+  "cargo": "Analista de Sistemas",
+  "mes_referencia": "10/2025",
+  "salario_bruto": 3345.29,
+  "inss": 275.89,
+  "irrf": 463.18,
+  "salario_liquido": 2606.22,
+  "data_pagamento": "13/04/2026"
+}

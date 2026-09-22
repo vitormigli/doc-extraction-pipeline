@@ -1,0 +1,13 @@
+{
+  "nome_funcionario": "Lorena Sampaio",
+  "cpf": "982.546.317-19",
+  "empresa": "Brito",
+  "cnpj_empresa": "45.938.761/0001-27",
+  "cargo": "Analista Financeiro",
+  "mes_referencia": "04/2026",
+  "salario_bruto": 5223.02,
+  "inss": 514.4,
+  "irrf": 127.1,
+  "salario_liquido": 4581.52,
+  "data_pagamento": "15/03/2026"
+}

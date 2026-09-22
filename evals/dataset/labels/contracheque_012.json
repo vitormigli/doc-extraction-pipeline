@@ -1,0 +1,13 @@
+{
+  "nome_funcionario": "Maria Júlia Pires",
+  "cpf": "437.298.106-69",
+  "empresa": "Rocha e Filhos",
+  "cnpj_empresa": "13.905.624/0001-08",
+  "cargo": "Engenheiro de Software",
+  "mes_referencia": "07/2026",
+  "salario_bruto": 8039.7,
+  "inss": 852.02,
+  "irrf": 1105.44,
+  "salario_liquido": 6082.24,
+  "data_pagamento": "27/11/2025"
+}

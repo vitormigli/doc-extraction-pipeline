@@ -1,0 +1,13 @@
+{
+  "nome_funcionario": "Mariane Correia",
+  "cpf": "154.028.679-76",
+  "empresa": "Moura",
+  "cnpj_empresa": "67.524.830/0001-99",
+  "cargo": "Engenheiro de Software",
+  "mes_referencia": "03/2026",
+  "salario_bruto": 11101.59,
+  "inss": 1030.32,
+  "irrf": 1333.83,
+  "salario_liquido": 8737.44,
+  "data_pagamento": "19/10/2025"
+}

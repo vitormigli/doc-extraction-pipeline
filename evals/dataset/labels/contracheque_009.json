@@ -1,0 +1,13 @@
+{
+  "nome_funcionario": "Benjamin Aparecida",
+  "cpf": "359.861.724-00",
+  "empresa": "Fogaça",
+  "cnpj_empresa": "24.150.978/0001-06",
+  "cargo": "Assistente Administrativo",
+  "mes_referencia": "06/2026",
+  "salario_bruto": 2761.62,
+  "inss": 237.93,
+  "irrf": 392.68,
+  "salario_liquido": 2131.01,
+  "data_pagamento": "15/01/2026"
+}

@@ -1,0 +1,13 @@
+{
+  "nome_funcionario": "Apollo Martins",
+  "cpf": "624.917.853-82",
+  "empresa": "das Neves",
+  "cnpj_empresa": "60.718.435/0001-06",
+  "cargo": "Analista de Sistemas",
+  "mes_referencia": "03/2026",
+  "salario_bruto": 2441.46,
+  "inss": 251.98,
+  "irrf": 213.27,
+  "salario_liquido": 1976.21,
+  "data_pagamento": "06/05/2026"
+}

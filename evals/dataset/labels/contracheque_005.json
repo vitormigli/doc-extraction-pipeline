@@ -1,0 +1,13 @@
+{
+  "nome_funcionario": "Sophia Cavalcanti",
+  "cpf": "934.786.521-46",
+  "empresa": "Caldeira",
+  "cnpj_empresa": "17.493.806/0001-61",
+  "cargo": "Analista Financeiro",
+  "mes_referencia": "05/2026",
+  "salario_bruto": 7177.15,
+  "inss": 695.81,
+  "irrf": 989.12,
+  "salario_liquido": 5492.22,
+  "data_pagamento": "23/09/2025"
+}

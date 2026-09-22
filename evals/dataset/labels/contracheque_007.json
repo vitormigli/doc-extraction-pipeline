@@ -1,0 +1,13 @@
+{
+  "nome_funcionario": "Milena Mendes",
+  "cpf": "264.053.917-52",
+  "empresa": "Leão",
+  "cnpj_empresa": "41.930.785/0001-89",
+  "cargo": "Engenheiro de Software",
+  "mes_referencia": "04/2026",
+  "salario_bruto": 9237.39,
+  "inss": 871.45,
+  "irrf": 174.28,
+  "salario_liquido": 8191.66,
+  "data_pagamento": "14/06/2026"
+}

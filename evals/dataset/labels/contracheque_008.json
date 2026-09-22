@@ -1,0 +1,13 @@
+{
+  "nome_funcionario": "Rodrigo Gomes",
+  "cpf": "581.342.970-05",
+  "empresa": "Gomes Caldeira - ME",
+  "cnpj_empresa": "26.735.498/0001-24",
+  "cargo": "Analista de Sistemas",
+  "mes_referencia": "09/2026",
+  "salario_bruto": 6938.29,
+  "inss": 636.12,
+  "irrf": 863.2,
+  "salario_liquido": 5438.97,
+  "data_pagamento": "15/05/2026"
+}

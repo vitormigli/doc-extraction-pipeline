@@ -1,0 +1,13 @@
+{
+  "nome_funcionario": "Dr. Yago Ferreira",
+  "cpf": "821.930.567-30",
+  "empresa": "Pimenta",
+  "cnpj_empresa": "27.904.851/0001-15",
+  "cargo": "Técnico em Automação",
+  "mes_referencia": "02/2026",
+  "salario_bruto": 9349.57,
+  "inss": 901.02,
+  "irrf": 1029.64,
+  "salario_liquido": 7418.91,
+  "data_pagamento": "10/02/2026"
+}
